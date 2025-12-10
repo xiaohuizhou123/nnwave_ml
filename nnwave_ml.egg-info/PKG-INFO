@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: nnwave-ml
+Version: 0.1.0
+Summary: ML pipeline for WW3-based air-entrainment velocity parameterization
+Author-email: Xiaohui Zhou <xzhou110@umd.edu>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: xarray
+Requires-Dist: zarr
+Requires-Dist: dask[distributed]
+Requires-Dist: netcdf4
+Requires-Dist: torch
+Requires-Dist: pandas
+
+# nnwave-ml
+
+Local ML pipeline for WW3-based Va parameterization.

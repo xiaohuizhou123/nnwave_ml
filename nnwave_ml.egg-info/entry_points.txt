@@ -1,0 +1,7 @@
+[console_scripts]
+nnwave-build-mask = nnwave_ml.mask_clean:main
+nnwave-build-splits = nnwave_ml.split:main
+nnwave-compute-scalers = nnwave_ml.scalers:main
+nnwave-convert-nc-to-zarr = nnwave_ml.convert:main
+nnwave-predict-pointwise = nnwave_ml.predict_pointwise:main
+nnwave-train-pointwise = nnwave_ml.train_pointwise:main
