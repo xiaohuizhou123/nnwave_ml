@@ -48,7 +48,7 @@ nnwave-predict-pointwise \
   --model /models/mlp/model.pt \
   --out_dir /predictions \
   --save_features hs cp U10
-
+```
 
 ## Below is an example visualization produced using this package:
 ![Example Figure](docs/2019_diff_mean.png)
