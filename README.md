@@ -51,7 +51,10 @@ nnwave-predict-pointwise \
 ```
 
 ## Below is an example visualization produced using this package in 2019, the bias from ML predicted wave breaking air entrainment is small enough to be ignored.
+
 ### Mean Truth Map (2019)
-[Example Figure](docs/2019_truth_mean.png)
+
+![2019 Figure](docs/2019_truth_mean.png)
+
 ### Prediction Difference Map (2019)
 ![2019 Figure](docs/2019_diff_mean.png)
