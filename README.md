@@ -51,4 +51,4 @@ nnwave-predict-pointwise \
 
 
 ## Below is an example visualization produced using this package:
-![Example Figure](docs/2019_diff_mean.png)
+![Example Figure](../docs/2019_diff_mean.png)
